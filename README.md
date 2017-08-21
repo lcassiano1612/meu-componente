@@ -1,4 +1,4 @@
-# meu-componente
+# Criando um componente
 Exemplo de criação de um componente web com Polymer
 
 Estou usando este cara aqui como referencia: https://codelabs.developers.google.com/codelabs/polymer-first-elements/#0
@@ -16,8 +16,11 @@ Estou usando este cara aqui como referencia: https://codelabs.developers.google.
 sudo apt-get update
 sudo apt-get install nodejs
 ```
-2. Apos o node vamos instalar o bower e o polymer-cli globalmente.
+2. Apos o node vamos instalar o bower e o polymer-cli globalmente:
 ```
 npm install -g bower polymer-cli
 ```
-
+3. Clone o projeto abaixo:
+```
+https://github.com/googlecodelabs/polymer-first-elements.git
+```
