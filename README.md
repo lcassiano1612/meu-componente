@@ -3,7 +3,7 @@ Exemplo de criação de um componente web com Polymer
 
 Estou usando este cara aqui como referencia: https://codelabs.developers.google.com/codelabs/polymer-first-elements/#0
 
-SETUP:
+######SETUP:
 
 - Sublime Text;
 - Terminal;
