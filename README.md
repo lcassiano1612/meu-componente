@@ -21,7 +21,7 @@ sudo apt-get install nodejs
 ```
 npm install -g bower polymer-cli
 ```
-3. Clone o projeto abaixo:
+3. Clone o projeto abaixo dentro da pasta ```meu-componente```:
 ```
 https://github.com/googlecodelabs/polymer-first-elements.git
 ```
@@ -41,5 +41,5 @@ No seu terminal vai ficar desta maneira:
 
 Pronto agora você pode acessar o caminho abaixo e iniciar o projeto com tudo configurado!
 ```
-localhost:8080/components/icon-toggle/demo/
+http://127.0.0.1:8081
 ```
