@@ -3,7 +3,7 @@ O tutorial para criar seu primeiro componente vai estar aqui: linkmedium
 
 Estou usando este cara aqui como referencia: https://codelabs.developers.google.com/codelabs/polymer-first-elements/#0
 
-###### O que vou usar:
+# O que vou usar:
 
 - Ubuntu 16.04;
 - Sublime Text;
