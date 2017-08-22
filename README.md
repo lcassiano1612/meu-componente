@@ -24,3 +24,8 @@ npm install -g bower polymer-cli
 ```
 https://github.com/googlecodelabs/polymer-first-elements.git
 ```
+4. Vamos acessar o projeto ```polymer-first-elements``` e executar o ```bower```:
+```
+polymer-first-elements
+bower install
+``` 
