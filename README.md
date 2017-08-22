@@ -26,6 +26,14 @@ https://github.com/googlecodelabs/polymer-first-elements.git
 ```
 4. Vamos acessar o projeto ```polymer-first-elements``` e executar o ```bower```:
 ```
-polymer-first-elements
+cd polymer-first-elements
 bower install
-``` 
+```
+5. Agora vamos rodar o servidor local que o proprio Polymer oferece:
+```
+polymer serve
+```
+
+o Seu terminal vai ficar desta maneira:
+
+<img> 
