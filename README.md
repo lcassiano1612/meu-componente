@@ -1,13 +1,14 @@
 # Criando um componente
-Exemplo de criação de um componente web com Polymer
+O tutorial para criar seu primeiro componente vai estar aqui: linkmedium
 
 Estou usando este cara aqui como referencia: https://codelabs.developers.google.com/codelabs/polymer-first-elements/#0
 
-###### SETUP:
+###### O que vou usar:
 
+- Ubuntu 16.04;
 - Sublime Text;
 - Terminal;
-- Ubuntu 16.04;
+
 
 # Configurando o ambiente
 
@@ -34,6 +35,11 @@ bower install
 polymer serve
 ```
 
-o Seu terminal vai ficar desta maneira:
+No seu terminal vai ficar desta maneira:
 
 <img> 
+
+Pronto agora você pode acessar o caminho abaixo e iniciar o projeto com tudo configurado!
+```
+localhost:8080/components/icon-toggle/demo/
+```
